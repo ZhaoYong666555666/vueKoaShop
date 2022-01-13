@@ -9,7 +9,7 @@ import OrderPage from '@/components/orderPage/OrderPage'
 import SetTing from '@/components/setTing/SetTing'
 import Address from '@/components/address/Address'
 
-Vue.use(Router)
+Vue.use(Router);
 
 export default new Router({
   mode: "history",
