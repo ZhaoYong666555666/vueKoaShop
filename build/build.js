@@ -1,4 +1,5 @@
 'use strict'
+// 生产环境构建脚本
 require('./check-versions')()
 
 process.env.NODE_ENV = 'production'

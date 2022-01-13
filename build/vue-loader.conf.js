@@ -1,4 +1,5 @@
 'use strict'
+// 配置了css加载器以及编译css之后自动添加前缀
 const utils = require('./utils')
 const config = require('../config')
 const isProduction = process.env.NODE_ENV === 'production'

@@ -34,6 +34,7 @@
             el.style.top = binding.value + 'px';
         }
     });
+
     export default {
         name: 'Home',
         data() {

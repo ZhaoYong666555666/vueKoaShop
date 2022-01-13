@@ -1,4 +1,5 @@
 'use strict'
+// webpack的基本配置
 const path = require('path')
 const utils = require('./utils')
 const config = require('../config')
